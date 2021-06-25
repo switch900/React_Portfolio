@@ -1,6 +1,7 @@
 import { Component } from "react";
 import "./App.css";
 import NavBar from "./NavBar";
+import QrContainer from './QRContainer'
 
 class App extends Component {
   render() {
@@ -11,6 +12,7 @@ class App extends Component {
           <h3>React Portfolio</h3>
         </div>
         <NavBar />
+        <QrContainer />
       </div>
     );
   }
