@@ -10,9 +10,10 @@ class App extends Component {
         <div class="Header">
           <h1>Andrew Hewitson</h1>
           <h3>React Portfolio</h3>
+        <QrContainer />
         </div>
         <NavBar />
-        <QrContainer />
+      
       </div>
     );
   }
