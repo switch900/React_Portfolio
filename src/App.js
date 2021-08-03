@@ -8,7 +8,7 @@ class App extends Component {
       <div className="App">
         <div class="Header">
           <h1>Andrew Hewitson</h1>
-          <h3>React Portfolio</h3>
+          <h3>React Portfolio!</h3>
         </div>
         <NavBar />
       
